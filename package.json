@@ -1,0 +1,37 @@
+{
+  "name": "send-form-simple",
+  "version": "1.0.0",
+  "description": "This JavaScript module facilitates form data submission to a server post-validation. It imports the validateForm function, validates a form by ID, and sends data to a specified endpoint URL. It listens for form submissions, prevents default behavior, gathers form data, and sends it using fetch. It handles server responses, logging success or error messages.",
+  "main": "send-form-simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isonnymichael/send-form-simple.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "module",
+    "form",
+    "validation",
+    "form",
+    "submission",
+    "fetch",
+    "API",
+    "client-side",
+    "data",
+    "validation",
+    "server",
+    "interaction"
+  ],
+  "author": "Sonny Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isonnymichael/send-form-simple/issues"
+  },
+  "homepage": "https://github.com/isonnymichael/send-form-simple#readme",
+  "dependencies": {
+    "validate-form-simple": "^1.1.0"
+  }
+}
