@@ -1,6 +1,6 @@
 {
   "name": "send-form-simple",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This JavaScript module facilitates form data submission to a server post-validation. It imports the validateForm function, validates a form by ID, and sends data to a specified endpoint URL. It listens for form submissions, prevents default behavior, gathers form data, and sends it using fetch. It handles server responses, logging success or error messages.",
   "main": "send-form-simple.js",
   "scripts": {
@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/isonnymichael/send-form-simple#readme",
   "dependencies": {
-    "validate-form-simple": "^1.2.0"
+    "validate-form-simple": "^1.1.0"
   }
 }
