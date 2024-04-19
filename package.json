@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/isonnymichael/send-form-simple#readme",
   "dependencies": {
-    "validate-form-simple": "^1.1.0"
+    "validate-form-simple": "^1.2.0"
   }
 }
